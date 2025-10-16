@@ -1,0 +1,4 @@
+repository "Prog Jogos 1 - Amauri - Adventure/Prog Jogos 1 - Amauri - Adventure@4673474296335@cloud"
+  path "/"
+    br "/main"
+    co "/main"
